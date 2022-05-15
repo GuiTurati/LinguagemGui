@@ -21,6 +21,7 @@ void (*funcReset)() = 0;
 
 //Arduino
 #define darReset funcReset()
+#define mapear map
 
 //Variaveis
 #define criarVarInteira(nome) int nome

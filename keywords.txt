@@ -13,6 +13,7 @@ LinguagemGui	KEYWORD1
 #######################################
 
 darReset	KEYWORD2
+mapear	KEYWORD2
 criarVarInteira	KEYWORD2
 criarVarFlutuante	KEYWORD2
 criarVarLogico	KEYWORD2

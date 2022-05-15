@@ -26,6 +26,7 @@ void setup() {
   mandarSerialLN(F("                                    Arduino                                          "));
   mandarSerialLN(F("_____________________________________________________________________________________"));
   mandarSerialLN(F("darReset   //Para dar reset no arduino (para programadores ' void (*funcReset)() = 0 ') "));
+  mandarSerialLN(F("mapear(valor, deMenor,deMaior, paraMenor,paraMaior)    //valor: o número a ser mapeado | deMenor: o menor limite do valor | deMaior: o maior limite do valor | paraMenor: o menor limite da conversao | paraMaior: o maior limite da conversao  (para programadores ' map ') "));
   mandarSerialLN(F("_____________________________________________________________________________________"));
   mandarSerialLN(F("                                   Variaveis                                         "));
   mandarSerialLN(F("_____________________________________________________________________________________"));
