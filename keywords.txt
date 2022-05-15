@@ -13,11 +13,11 @@ LinguagemGui	KEYWORD1
 #######################################
 
 darReset	KEYWORD2
-varInteira	KEYWORD2
-varFlutuante	KEYWORD2
-varLogico	KEYWORD2
-varCaracter	KEYWORD2
-varTexto	KEYWORD2
+criarVarInteira	KEYWORD2
+criarVarFlutuante	KEYWORD2
+criarVarLogico	KEYWORD2
+criarVarCaracter	KEYWORD2
+criarVarTexto	KEYWORD2
 mudarVar	KEYWORD2
 espera	KEYWORD2
 modoPorta	KEYWORD2
