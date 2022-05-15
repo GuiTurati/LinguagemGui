@@ -1,0 +1,60 @@
+#######################################
+# Syntax Coloring Map For LinguagemGui
+#######################################
+
+#######################################
+# Datatypes (KEYWORD1) - Tipos de Dados
+#######################################
+
+LinguagemGui	KEYWORD1
+
+#######################################
+# Methods and Functions (KEYWORD2) - Métodos e Funções
+#######################################
+
+darReset	KEYWORD2
+varInteira	KEYWORD2
+varFlutuante	KEYWORD2
+varLogico	KEYWORD2
+varCaracter	KEYWORD2
+varTexto	KEYWORD2
+mudarVar	KEYWORD2
+espera	KEYWORD2
+modoPorta	KEYWORD2
+ligarPorta	KEYWORD2
+desligarPorta	KEYWORD2
+lerPortaD	KEYWORD2
+lerPortaA	KEYWORD2
+pwm	KEYWORD2
+Se	KEYWORD2
+Senao	KEYWORD2
+SenaoSe	KEYWORD2
+repetir	KEYWORD2
+enquanto	KEYWORD2
+criarFuncao	KEYWORD2
+retornar	KEYWORD2
+iniciarSerial	KEYWORD2
+mandarSerial	KEYWORD2
+mandarSerialLN	KEYWORD2
+temInfoSerial	KEYWORD2
+lerSerial	KEYWORD2
+lerSerialTexto	KEYWORD2
+
+#######################################
+# Constants (LITERAL1) - Constantes
+#######################################
+
+ligado	LITERAL1
+desligado	LITERAL1
+verdadeiro	LITERAL1
+falso	LITERAL1
+saida	LITERAL1
+entrada	LITERAL1
+entradaBt	LITERAL1
+velPadrao	LITERAL1
+inteira	LITERAL1
+flutuante	LITERAL1
+logico	LITERAL1
+texto	LITERAL1
+caracter	LITERAL1
+nada	LITERAL1
